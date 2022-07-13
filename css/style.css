@@ -96,7 +96,7 @@ html{
 }
 @media screen and (max-width:482px) {
     .header-content{
-        padding: 45px;
+        padding: 20px;
     }
     .header-content h1{
         font-size: 30px;
